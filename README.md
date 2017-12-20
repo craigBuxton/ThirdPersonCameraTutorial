@@ -1,2 +1,4 @@
-# ThirdPersonCameraTutorial
-proof of concept for third person camera controller
+UnityThirdPersonTutorial
+========================
+
+Sample project showing third person camera behavior and Mecanim animations
